@@ -1,7 +1,7 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
-But first, let's get you your own copy of this codebase to work with.
+But first, let's get you your own copy of this codebase to work with. - edited again to pull
 
 ## Task 0 Forking a public repository on GitHub
 
@@ -306,6 +306,8 @@ on GitHub.
 - [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
+
+# edited to pull - pull x 2 x3
 
 This change has now been made on GitHub,
 but your local copy doesn't know about the change yet.
